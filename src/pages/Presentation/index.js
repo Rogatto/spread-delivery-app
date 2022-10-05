@@ -27,7 +27,7 @@ import routes from "routes";
 import footerRoutes from "footer.routes";
 
 // Images
-import bgImage from "assets/images/containers.jpeg";
+import bgImage from "assets/images/containers.jpg";
 
 function Presentation() {
   return (
