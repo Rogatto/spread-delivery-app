@@ -35,10 +35,10 @@ function Download() {
         <Container sx={{ position: "relative", zIndex: 2, py: 12 }}>
           <Grid container item xs={12} md={7} justifyContent="center" mx="auto" textAlign="center">
             <MKTypography variant="h3" color="white">
-              You can use our APIs to integration with your application
+              You can use our APIs to integrate with your application
             </MKTypography>
             <MKTypography variant="body2" color="white" mb={6}>
-              Using our api you can easily have access to our products and integration with your application. Our REST API documentation will provide you client access and a struct way to follow the best practices and more.
+              Using our api you can easily have access to our products and integrate with your application. Our REST API documentation will provide you client access and a step-by-step to this integration
             </MKTypography>
             <MKButton
               variant="gradient"

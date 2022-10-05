@@ -27,17 +27,17 @@ function Information() {
                 icon="touch_app"
                 title={
                   <>
-                    Feel the
+                    Access our
                     <br />
-                    Material Kit
+                    products list
                   </>
                 }
-                description="All the MUI components that you need in a development have been re-design with the new look."
+                description="You can find products, see quantity, ship, and manage."
               />
               <RotatingCardBack
                 image={bgBack}
-                title="Discover More"
-                description="You will save a lot of time going from prototyping to full-functional code because all elements are implemented."
+                title="As a importer you can add products"
+                description="Importers can add products to the spread cart, manage and update quantities. "
                 action={{
                   type: "internal",
                   route: "/sections/page-sections/page-headers",
